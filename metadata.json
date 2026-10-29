@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Management System",
+  "description": "Smart Parking. Faster Decisions. Better Mobility. Real-time bay occupancy, interactive slot maps, QR booking passes, and full college project faculty demonstration suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
